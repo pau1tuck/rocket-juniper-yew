@@ -1,1 +1,1 @@
-# Rocket-Juniper-Yew Full Web Assembly Stack [in progress]
+# Rocket-Juniper-Yew Full Stack Web Assembly [in development]
